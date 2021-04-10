@@ -1,0 +1,78 @@
+.navbar {
+  background-color: #374268;
+}
+.color-change {
+  color: rgb(159, 201, 214);
+}
+.color {
+  color: #fff;
+}
+.navbar-brand {
+  padding: 12px 0px;
+  font-size: 25px;
+ font-weight: bold;
+ margin-left: 1px;
+}
+
+.links {
+  width: 60%;
+  margin: 0 auto;
+  color: #fff;
+}
+.links .mr-auto .nav-link {
+  padding-right: 80px;
+  font-size: 20px;
+  color: rgb(229, 234, 236);
+}
+.logins .nav-link {
+  display: inline;
+  text-decoration: none;
+  color: rgb(243, 239, 239);
+}
+
+.footer {
+  background-color: #434d6e;
+  
+  
+}
+.footer p {
+  padding: 13px 0px ;
+  text-align: center;
+  color: #fff;
+  font-size: 20px;
+}
+
+.text{
+  border: 2px solid orange;
+  display: inline;
+  margin-top: 20px;
+  margin-left: 20px;
+  padding: 4px;
+  width: 70%;
+  text-align: center;
+  float: left;
+}
+.button{
+  margin-top: 25px;
+  margin-left: 30px;
+  padding: 5px;
+  border: 2px solid black;
+}
+.jumbotron {
+ background-color: azure;
+ background-repeat: no-repeat,repeat;
+ background-position:center ;
+ background-size: cover;
+ padding-top: 100px;
+ font-weight: bold;
+ margin-top: 50px;
+ margin-bottom: 70px;
+ padding: 50px;
+}
+.jumbotron candidateItemComponent{
+ background-color: aqua;
+ 
+
+}
+
+
